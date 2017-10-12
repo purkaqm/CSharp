@@ -1,5 +1,9 @@
 one two three
 four five six
 
+<<<<<<< HEAD
 
 local change 0001
+=======
+remote changes
+>>>>>>> 18b51791f1b495e9cd5997015bc6eb7bb9a2b3bb
